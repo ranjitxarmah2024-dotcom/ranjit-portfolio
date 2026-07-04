@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 200 200" role="img" aria-label="Profile placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="24" fill="#0f172a"/>
+  <circle cx="100" cy="70" r="40" fill="url(#g)" opacity="0.18" />
+  <circle cx="100" cy="70" r="34" fill="#0b1220" stroke="rgba(255,255,255,0.04)" stroke-width="2" />
+  <rect x="36" y="120" width="128" height="34" rx="6" fill="#0b1220" />
+  <text x="100" y="128" font-family="Poppins, sans-serif" font-size="10" fill="#9fbdd3" text-anchor="middle">Ranjit Sharma</text>
+</svg>
